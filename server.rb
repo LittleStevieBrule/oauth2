@@ -1,5 +1,5 @@
 require 'sinatra'
-require_relative 'lib/oauth2'
+require_relative 'lib/helpers'
 
 include OauthHelpers
 
