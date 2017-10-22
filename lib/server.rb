@@ -7,4 +7,8 @@ class Server < Sinatra::Base
     super
   end
 
+  get '/' do
+    'hello world'
+  end
+
 end
