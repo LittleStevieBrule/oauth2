@@ -1,13 +1,12 @@
 # Oauth2 server-side implementation
 
 A demonstration of oauth2 server-side flow using the google 
-oauth endpoint and without the use of a client library
+oauth endpoint
 
 [Check it out](https://oauth2-183700.appspot.com/)
 
 ### Getting started
-
-        bundle install
+        $ bundle install
 ### Configuring       
 Provide your own client id, client secret, redirect uri
  in token.yaml
@@ -19,5 +18,5 @@ redirect_uri: # redirect uri
  
 ### Running server
 
-        ruby lib/server.rb
+        $ ruby lib/server.rb
 
