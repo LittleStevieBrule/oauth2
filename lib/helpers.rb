@@ -53,6 +53,4 @@ module OauthHelpers
     ERB.new(template).result(binding)
   end
 
-  #GET https://www.googleapis.com/plus/v1/people/
-
 end

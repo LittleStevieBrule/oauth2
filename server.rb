@@ -1,5 +1,6 @@
 require 'sinatra/base'
 require 'sinatra/cookies'
+
 require_relative 'lib/helpers'
 
 class Server < Sinatra::Base
