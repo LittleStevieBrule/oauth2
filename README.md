@@ -1,6 +1,7 @@
 # Oauth2 server-side implementation
 
-Uses the google oauth endpoint without the use of a client library
+A demonstration of oauth2 server-side flow using the google 
+oauth endpoint and without the use of a client library
 
 [Check it out](https://oauth2-183700.appspot.com/)
 
